@@ -1,1 +1,2 @@
-This program asks the user for their name, then says hello.
+everything is awesome
+# cs100
